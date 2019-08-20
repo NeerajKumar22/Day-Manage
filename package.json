@@ -1,0 +1,28 @@
+{
+  "name": "day-manage",
+  "version": "1.0.0",
+  "description": "App for manage the day and personal diary",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeerajKumar22/Day-Manage.git"
+  },
+  "author": "Neeraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeerajKumar22/Day-Manage/issues"
+  },
+  "homepage": "https://github.com/NeerajKumar22/Day-Manage#readme",
+  "dependencies": {
+    "concurrently": "^4.1.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
