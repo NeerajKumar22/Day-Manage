@@ -30,7 +30,7 @@
     "http-errors": "^1.7.3",
     "jsonwebtoken": "^8.5.1",
     "mongodb": "^3.3.0",
-    "mongoose": "^5.6.10"
+    "mongoose": "^5.7.5"
   },
   "devDependencies": {
     "nodemon": "^1.19.1"
